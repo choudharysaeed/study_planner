@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner",
+  "description": "Production-grade authentication and academic workflow system for the Study Planner workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
